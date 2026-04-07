@@ -78,7 +78,12 @@ export interface Game {
   link?: string;
 }
 
-export interface Proxy {\n  url: string;\n}
+export interface Proxy {
+  url: string;
+  name: string;
+  imageUrl?: string;
+  description?: string;
+}
 
 export interface FavoriteItem {
   id: string;
