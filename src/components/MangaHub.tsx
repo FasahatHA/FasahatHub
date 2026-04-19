@@ -14,7 +14,7 @@ export default function MangaHub({ favorites, onToggleFavorite }: MangaHubProps)
     <div className="p-8 max-w-7xl mx-auto pb-32">
       <div className="text-center mb-12">
         <h1 className="text-4xl font-black text-[var(--mk-gold)] drop-shadow-[0_0_10px_var(--mk-gold)] mb-4">
-          MK-PLAZA MANGA
+          FASAHATHUB MANGA
         </h1>
         <p className="text-[10px] text-gray-400 mt-1 uppercase tracking-widest">
           For those who like to read rather than watch
