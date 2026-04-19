@@ -37,7 +37,7 @@ export default function AnimeHub({ favorites, onToggleFavorite, initialSelectedI
     <div className="p-8 max-w-7xl mx-auto pb-32">
       <div className="text-center mb-12">
         <h1 className="text-4xl font-black text-[var(--mk-gold)] drop-shadow-[0_0_10px_var(--mk-gold)] mb-4">
-          MKPlaza's An1m3
+          FASAHATHUB's An1m3
         </h1>
         <p className="text-[var(--mk-silver)] opacity-70 italic">
           For all the weebs and weirdos
