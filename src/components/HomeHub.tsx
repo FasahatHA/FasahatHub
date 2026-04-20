@@ -140,7 +140,7 @@ export default function HomeHub({ onNavigate, onOpenSettings, favorites, onRemov
                   <span style={{ color: currentTheme.gold }}>{badge.suffix}</span>
                 </div>
                 <h1 className="text-5xl lg:text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-white via-[var(--mk-silver)] to-gray-500 tracking-tighter drop-shadow-sm">
-                  MKPLAZA
+                  FASAHATHUB
                 </h1>
                 <p className="text-lg lg:text-xl text-[var(--mk-silver)] opacity-70 font-medium tracking-wide max-w-xl leading-relaxed">
                   Your favorite entertainment center featuring all your favorite Meta Knight variants.
@@ -148,7 +148,7 @@ export default function HomeHub({ onNavigate, onOpenSettings, favorites, onRemov
               </div>
 
               <div className="text-lg text-[var(--mk-silver)] font-bold tracking-wide">
-                Soon to be successor of Kirby Arcade/Chill Kirb Central.
+                Soon to be successor of Canberra High Central.
               </div>
             </div>
           </motion.div>
@@ -375,7 +375,7 @@ export default function HomeHub({ onNavigate, onOpenSettings, favorites, onRemov
       </section>
 
       <footer className="pt-12 border-t border-white/10 text-center text-white/30 text-sm">
-        <p>&copy; 2026 MKPLAZA. Name is mine, but I do not own the rights to any game, movie, etc.</p>
+        <p>&copy; 2026 FASAHATHUB. Name is mine, but I do not own the rights to any game, movie, etc.</p>
       </footer>
     </div>
   );
